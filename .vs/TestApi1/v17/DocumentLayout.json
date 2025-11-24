@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\data\\testapi1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\data\\testapi1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\models\\testbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\models\\testbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\testapi1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\testapi1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|c:\\users\\plna228\\desktop\\java antonov\\testapi1\\testapi1\\testapi1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{493D549B-9FB9-45C3-B0A9-796FC8ED09B5}|TestApi1\\TestApi1.csproj|solutionrelative:testapi1\\testapi1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Models\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\UpdateUserDTO.cs",
+              "RelativeToolTip": "TestApi1\\Models\\UpdateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:56:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Models\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\AddUserDTO.cs",
+              "RelativeToolTip": "TestApi1\\Models\\AddUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:27:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestApi1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestApi1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T08:07:56.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "TestApi1\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-24T07:47:29.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TestApi1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:30:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TestApi1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T12:13:38.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.http",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\app.http",
+              "RelativeDocumentMoniker": "TestApi1\\app.http",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\app.http",
+              "RelativeToolTip": "TestApi1\\app.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-20T12:10:28.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApi1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\appsettings.json",
+              "RelativeToolTip": "TestApi1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T11:59:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:57:47.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Index.cshtml",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T11:57:47.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:57:47.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Delete.cshtml",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T11:57:47.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:57:47.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Details.cshtml",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T11:57:47.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:57:47.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Edit.cshtml",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T11:57:47.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:57:46.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "TestApi1\\Pages\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Pages\\Users\\Create.cshtml",
+              "RelativeToolTip": "TestApi1\\Pages\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T11:57:46.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestApi1Context.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Data\\TestApi1Context.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Data\\TestApi1Context.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Data\\TestApi1Context.cs",
+              "RelativeToolTip": "TestApi1\\Data\\TestApi1Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:57:46.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\Role.cs",
+              "RelativeToolTip": "TestApi1\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:56:15.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\User.cs",
+              "RelativeToolTip": "TestApi1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:52:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestBdContext.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\TestBdContext.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Models\\TestBdContext.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Models\\TestBdContext.cs",
+              "RelativeToolTip": "TestApi1\\Models\\TestBdContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:52:20.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TestApi1",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\TestApi1.csproj",
+              "RelativeDocumentMoniker": "TestApi1\\TestApi1.csproj",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\TestApi1.csproj",
+              "RelativeToolTip": "TestApi1\\TestApi1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T11:42:39.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestApi1.csproj",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\TestApi1.csproj",
+              "RelativeDocumentMoniker": "TestApi1\\TestApi1.csproj",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\TestApi1.csproj",
+              "RelativeToolTip": "TestApi1\\TestApi1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T11:41:31.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi1\\Program.cs",
+              "ToolTip": "C:\\Users\\Plna228\\Desktop\\java antonov\\TestApi1\\TestApi1\\Program.cs",
+              "RelativeToolTip": "TestApi1\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:41:19.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
