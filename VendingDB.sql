@@ -6,7 +6,7 @@ GO
 
 CREATE TABLE Товар
 (
-	Код UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+	Код UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWSEQUENTIALID(),
 	Название NVARCHAR(50) NOT NULL,
 	Описание NVARCHAR(MAX),
 	Цена FLOAT NOT NULL,
@@ -36,7 +36,7 @@ VALUES
 
 CREATE TABLE Пользователь
 (
-	Код UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+	Код UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWSEQUENTIALID(),
 	Фамилия NVARCHAR(MAX) NOT NULL,
 	Имя NVARCHAR(MAX) NOT NULL,
 	Отчество NVARCHAR(MAX) NOT NULL,
@@ -153,11 +153,19 @@ VALUES
 
 CREATE TABLE Сотрудник
 (
-	Код UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+	Код UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWSEQUENTIALID(),
 	Фамилия NVARCHAR(50),
 	Имя NVARCHAR(50),
 	Отчество NVARCHAR(50)
 )
+
+DECLARE @пользователь1 UNIQUEIDENTIFIER, @пользователь2 UNIQUEIDENTIFIER
+DECLARE @сотрудник1 UNIQUEIDENTIFIER, @сотрудник2 UNIQUEIDENTIFIER
+
+SELECT TOP 1 @пользователь1 = Код FROM Пользователь WHERE Имя = 'Иван'
+SELECT TOP 1 @пользователь2 = Код FROM Пользователь WHERE Имя = 'Петр'
+SELECT TOP 1 @сотрудник1 = Код FROM Сотрудник WHERE Имя = 'Иван'
+SELECT TOP 1 @сотрудник2 = Код FROM Сотрудник WHERE Имя = 'Петр'
 
 INSERT INTO Сотрудник(Фамилия, Имя, Отчество)
 VALUES
@@ -167,7 +175,7 @@ VALUES
 
 CREATE TABLE Вендинговый_аппарат
 (
-	Код UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+	Код UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWSEQUENTIALID(),
 	Местоположение NVARCHAR(255) NOT NULL,
 	Модель NVARCHAR(255) NOT NULL,
 	Доход FLOAT NOT NULL,
@@ -192,11 +200,21 @@ CREATE TABLE Вендинговый_аппарат
 	FOREIGN KEY(Код_пользователь) REFERENCES Пользователь(Код)
 )
 
+INSERT INTO Вендинговый_аппарат(Местоположение, Модель, Доход, Серийный_номер, Инвентарный_номер, Код_изготовитель, Код_календарь, Код_ресурс, Код_статус, Код_тип_аппарата, Код_страна_производства, Код_сотрудник, Код_пользователь)
+VALUES
+('Офис на Чайковского', 'А316', 30000,  12345678, 87654321, 1, 1, 1, 1, 1, 1, 1, 1),
+('Торговый центр Олимп', 'Б322', 40000,  34567890, 09876543, 2, 2, 2, 2, 2, 2, 2, 2)
+
 CREATE TABLE Тип_оплаты
 (
 	Код INT PRIMARY KEY IDENTITY(1,1),
 	Название NVARCHAR(50) NOT NULL
 )
+
+INSERT INTO Тип_оплаты(Название)
+VALUES
+('Наличные'),
+('Карта')
 
 CREATE TABLE Продажи
 (
@@ -213,6 +231,11 @@ CREATE TABLE Продажи
 	FOREIGN KEY(Код_тип_оплаты) REFERENCES Тип_оплаты(Код)
 )
 
+INSERT INTO Продажи(Код_вендинговый_аппарат, Код_товар, Количество, Сумма_продажи, Дата_время_продажи, Код_тип_оплаты)
+VALUES
+(1, 1, 5, 350, '2025-12-31 15:37:12', 1),
+(2, 2, 5, 200, '2025-12-31 14:00:12', 2)
+
 CREATE TABLE Обслуживание
 (
 	Код INT IDENTITY(1,1),
@@ -220,9 +243,14 @@ CREATE TABLE Обслуживание
 	Код_время_обслуживания INT,
 	Код_межпроверочного_интервала INT,
 	Дата_обслуживания DATE NOT NULL,
-	Описание_работы NVARCHAR(MAX) NOT NULL
+	Описание_работы NVARCHAR(MAX) NULL
 
 	FOREIGN KEY(Код_вендинговый_аппарат) REFERENCES Вендинговый_аппарат(Код),
 	FOREIGN KEY(Код_межпроверочного_интервала) REFERENCES Межпроверочный_интервал(Код),
 	FOREIGN KEY(Код_время_обслуживания) REFERENCES Время_обслуживания(Код)
 )
+
+INSERT INTO Обслуживание(Код_вендинговый_аппарат, Код_время_обслуживания, Код_межпроверочного_интервала, Дата_обслуживания, Описание_работы)
+VALUES
+(1, 1, 1, '2025-10-12', 'Очистка от пыли'),
+(2, 2, 2, '2025-12-10', 'Ремонт автомата')
